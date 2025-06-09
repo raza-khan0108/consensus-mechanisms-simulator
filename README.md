@@ -1,4 +1,4 @@
-# 🧠 Consensus Mechanisms Simulator
+# 🧠 Consensus Mechanism Simulator
 
 This project simulates three major blockchain consensus mechanisms: **Proof-of-Work (PoW)**, **Proof-of-Stake (PoS)**, and **Delegated Proof-of-Stake (DPoS)**. It demonstrates how different validators are selected in each consensus model using a simple JavaScript-based mock environment.
 
